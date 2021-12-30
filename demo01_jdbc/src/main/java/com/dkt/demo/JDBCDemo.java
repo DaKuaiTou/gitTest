@@ -14,8 +14,6 @@ public class JDBCDemo {
     *   2.获得连接
     *   3.获取预编译sql语句对象
     *   4.设置参数，执行
-    *   5.处理结果
-    *   6.释放资源
     * */
     public static void main (String[] args) {
         Connection connection = null;
