@@ -14,6 +14,7 @@ public class JDBCDemo {
     *   2.获得连接
     *   3.获取预编译sql语句对象
     *   4.设置参数，执行
+    *   5.随便写
     * */
     public static void main (String[] args) {
         Connection connection = null;
